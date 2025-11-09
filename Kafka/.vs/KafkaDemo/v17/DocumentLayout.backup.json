@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dotnet-architect\\KafkaDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A566FD3B-03DB-45B6-A3A2-FF58FDEB670D}|Kafka.Consumer\\Kafka.Consumer.csproj|e:\\dotnet-architect\\kafkademo\\kafka.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A566FD3B-03DB-45B6-A3A2-FF58FDEB670D}|Kafka.Consumer\\Kafka.Consumer.csproj|solutionrelative:kafka.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCD8887-51B1-4FE2-BD97-620E8612D645}|Kafka1\\Kafka1.csproj|e:\\dotnet-architect\\kafkademo\\kafka1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCD8887-51B1-4FE2-BD97-620E8612D645}|Kafka1\\Kafka1.csproj|solutionrelative:kafka1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dotnet-architect\\KafkaDemo\\Kafka.Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "Kafka.Consumer\\Program.cs",
+              "ToolTip": "E:\\dotnet-architect\\KafkaDemo\\Kafka.Consumer\\Program.cs",
+              "RelativeToolTip": "Kafka.Consumer\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:23:54.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dotnet-architect\\KafkaDemo\\Kafka1\\Program.cs",
+              "RelativeDocumentMoniker": "Kafka1\\Program.cs",
+              "ToolTip": "E:\\dotnet-architect\\KafkaDemo\\Kafka1\\Program.cs",
+              "RelativeToolTip": "Kafka1\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:20:22.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

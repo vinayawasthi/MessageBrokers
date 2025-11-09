@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dotnet-architect\\RabbitMQDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06D880DA-5918-42B2-A659-F330C4437D7E}|ReceivedDemo\\ReceivedDemo.csproj|e:\\dotnet-architect\\rabbitmqdemo\\receiveddemo\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06D880DA-5918-42B2-A659-F330C4437D7E}|ReceivedDemo\\ReceivedDemo.csproj|solutionrelative:receiveddemo\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D880DA-5918-42B2-A659-F330C4437D7E}|ReceivedDemo\\ReceivedDemo.csproj|e:\\dotnet-architect\\rabbitmqdemo\\receiveddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D880DA-5918-42B2-A659-F330C4437D7E}|ReceivedDemo\\ReceivedDemo.csproj|solutionrelative:receiveddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A943FBF-A7D9-43B9-B75C-A50B4AAAE443}|SendDemo\\SendDemo.csproj|e:\\dotnet-architect\\rabbitmqdemo\\senddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A943FBF-A7D9-43B9-B75C-A50B4AAAE443}|SendDemo\\SendDemo.csproj|solutionrelative:senddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A943FBF-A7D9-43B9-B75C-A50B4AAAE443}|SendDemo\\SendDemo.csproj|e:\\dotnet-architect\\rabbitmqdemo\\senddemo\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A943FBF-A7D9-43B9-B75C-A50B4AAAE443}|SendDemo\\SendDemo.csproj|solutionrelative:senddemo\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D880DA-5918-42B2-A659-F330C4437D7E}|ReceivedDemo\\ReceivedDemo.csproj|e:\\dotnet-architect\\rabbitmqdemo\\receiveddemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06D880DA-5918-42B2-A659-F330C4437D7E}|ReceivedDemo\\ReceivedDemo.csproj|solutionrelative:receiveddemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A943FBF-A7D9-43B9-B75C-A50B4AAAE443}|SendDemo\\SendDemo.csproj|e:\\dotnet-architect\\rabbitmqdemo\\senddemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A943FBF-A7D9-43B9-B75C-A50B4AAAE443}|SendDemo\\SendDemo.csproj|solutionrelative:senddemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "data.json",
+              "DocumentMoniker": "E:\\dotnet-architect\\RabbitMQDemo\\SendDemo\\data.json",
+              "RelativeDocumentMoniker": "SendDemo\\data.json",
+              "ToolTip": "E:\\dotnet-architect\\RabbitMQDemo\\SendDemo\\data.json",
+              "RelativeToolTip": "SendDemo\\data.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T15:22:33.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "data.json",
+              "DocumentMoniker": "E:\\dotnet-architect\\RabbitMQDemo\\ReceivedDemo\\data.json",
+              "RelativeDocumentMoniker": "ReceivedDemo\\data.json",
+              "ToolTip": "E:\\dotnet-architect\\RabbitMQDemo\\ReceivedDemo\\data.json",
+              "RelativeToolTip": "ReceivedDemo\\data.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T14:19:34.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dotnet-architect\\RabbitMQDemo\\SendDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SendDemo\\Program.cs",
+              "ToolTip": "E:\\dotnet-architect\\RabbitMQDemo\\SendDemo\\Program.cs",
+              "RelativeToolTip": "SendDemo\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T08:37:47.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\dotnet-architect\\RabbitMQDemo\\SendDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "SendDemo\\appsettings.json",
+              "ToolTip": "E:\\dotnet-architect\\RabbitMQDemo\\SendDemo\\appsettings.json",
+              "RelativeToolTip": "SendDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T08:35:23.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dotnet-architect\\RabbitMQDemo\\ReceivedDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ReceivedDemo\\Program.cs",
+              "ToolTip": "E:\\dotnet-architect\\RabbitMQDemo\\ReceivedDemo\\Program.cs",
+              "RelativeToolTip": "ReceivedDemo\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowCcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T08:11:50.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\dotnet-architect\\RabbitMQDemo\\ReceivedDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "ReceivedDemo\\appsettings.json",
+              "ToolTip": "E:\\dotnet-architect\\RabbitMQDemo\\ReceivedDemo\\appsettings.json",
+              "RelativeToolTip": "ReceivedDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T01:47:47.208Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
